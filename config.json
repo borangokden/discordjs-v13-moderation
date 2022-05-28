@@ -1,7 +1,7 @@
 {
     "bot": {
         "owner": "796263552771817472",
-        "token": "OTYxNjUzMjg3ODYwNDYxNjQ4.G2YJ_y.-SPf3ZO1Jw9rWjB_QmtxHKnOab7azPenuQKQ_w",
+        "token": "TOKEN",
         "prefix": ".",
         "BotStatus": "BoranGkdn was here ❤️",
         "BotFooter": "BoranGkdn was here ❤️",
@@ -9,33 +9,33 @@
     },
     "penals": {
         "ban": {
-            "staff": "973937301719748610",
-            "log": "973937303795933297",
+            "staff": "BAN YETKILISI ID",
+            "log": "BAN ",
             "limit": 3
         },
         "jail": {
-            "staff": "973937301719748608",
-            "roles": "973937301682024481",
-            "log": "973937303795933297",
+            "staff": "JAİL YETKILISI ID",
+            "roles": "JAİLED ROL ID",
+            "log": "JAİL LOG ID",
             "limit": 5
         },
         "mute": {
-            "staff": "973937301682024485",
-            "roles": "973937301682024478",
-            "log": "973937303795933297",
+            "staff": "MUTE YETKILISI ID",
+            "roles": "MUTED ROL ID",
+            "log": "MUTE LOG ID",
             "limit": 5
         },
         "voicemute": {
-            "staff": "973937301682024486",
-            "log": "973937303795933297",
+            "staff": "VOİCE MUTE YETKILISI ID",
+            "log": "VOİCE MUTE LOG ID",
             "limit": 5
         },
         "warn": {
-            "staff": "973937301719748609",
-            "log": "973937303795933297"
+            "staff": "UYARI YETKILISI ID",
+            "log": "UYARI LOG ID"
         },
         "transport": {
-            "staff": "973937301682024487"
+            "staff": "TAŞIYICI YETKILISI ID"
         },
         "points": {
             "mutepoints": "10",
@@ -45,47 +45,46 @@
         }
     },
     "logs": {
-        "taglog": "973937303795933296",
-        "rollog": "973937303795933300",
-        "messagelog": "973937303795933298",
-        "seslog": "973937303795933298"
+        "taglog": "TAG LOG ID",
+        "rollog": "ROL LOG ID",
+        "messagelog": "MESAJ LOG ID",
+        "seslog": "SES LOG ID"
     },
     "roles": {
-        "booster": "929645587291312169",
-        "vip": "973937301661057072",
-        "sponsor": "973937301661057070",
-        "müzisyen": "973937301635870819",
-        "team": "973937301661057071"
+        "booster": "BOOSTER ROL ID",
+        "vip": "VIP ROL ID",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "MÜZİSYEN ROL ID",
+        "team": "TAGLI ROL ID"
     },
     "channels": {
-        "chat": "973937302776725553",
-        "voicechannel": "973937302776725551"
+        "chat": "CHAT KANALI ID",
+        "voicechannel": "SES KANALI ID"
     },
     "kategoriler": {
-        "publickategorisi": "973937303145832519"
+        "publickategorisi": "PUBLİC KATEGORISI ID"
     },
     "registration": {
-        "unregistered": "973937301661057064",
-        "yetkilialim": "973937301778497569",
-        "botcommands": "973937301682024484",
-        "staff": "973937301682024483",
-        "enaltyetkilirolü": "973937301740736594",
-        "GuilDTag": "BG",
-        "GuildDiscrim": "0001"
+        "unregistered": "KAYITSIZ ROL ID",
+        "yetkilialim": "YETKİLİ ALIM ROL ID",
+        "botcommands": "BOT COMMANDS ROL ID (.VİP .SPONSOR GİBİ)",
+        "staff": "REGİSTER ROL ID",
+        "enaltyetkilirolü": "EN ALT YETKİLİ PERMİ İD (TİTANS OF BORANGKDN GİBİ)",
+        "GuilDTag": "SUNUCU TAGI",
+        "GuildDiscrim": "SUNUCU ETİKET TAGI # OLMADAN YAZ (YOKSA BOŞ BIRAK)"
     },
     "Guild": {
-        "GuildID": "973937301635870811",
-        "GuilDName": "reformer of borangkdn",
-        "GuildOwnerRole": ["973937301778497571", "973937301778497566"]
+        "GuildID": "SUNUCU ID",
+        "GuilDName": "SUNUCU ADI",
+        "GuildOwnerRole": ["SUNUCU OWNER ROL 1", "SUNUCU OWNER ROL 2"]
     },
     "emojis": {
-        "tada": "<a:bg_cekiliske:974966385941819392>",
-        "yes": "<a:bg_onaylamak:974966348738363412>",
-        "no": "<a:bg_reddetmek:974966361975562250>"
+        "tada": "CEKİLİS EMOJİSİ ID",
+        "yes": "ONAY EMOJİSİ ID",
+        "no": "RED EMOJİSİ ID"
     },
         "buttons": {
-            "giveaway": "973937301635870815",
-            "activity": "973937301635870816"
+            "giveaway": "ÇEKİLİŞ KATILIMCISI ROLU ID",
+            "activity": "ETKİNLİK KATILIMCISI ROLU ID"
         }
     }
-    
