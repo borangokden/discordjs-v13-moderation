@@ -1,0 +1,91 @@
+{
+    "bot": {
+        "owner": "796263552771817472",
+        "token": "OTYxNjUzMjg3ODYwNDYxNjQ4.G2YJ_y.-SPf3ZO1Jw9rWjB_QmtxHKnOab7azPenuQKQ_w",
+        "prefix": ".",
+        "BotStatus": "BoranGkdn was here ❤️",
+        "BotFooter": "BoranGkdn was here ❤️",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "973937301719748610",
+            "log": "973937303795933297",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "973937301719748608",
+            "roles": "973937301682024481",
+            "log": "973937303795933297",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "973937301682024485",
+            "roles": "973937301682024478",
+            "log": "973937303795933297",
+            "limit": 5
+        },
+        "voicemute": {
+            "staff": "973937301682024486",
+            "log": "973937303795933297",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "973937301719748609",
+            "log": "973937303795933297"
+        },
+        "transport": {
+            "staff": "973937301682024487"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "973937303795933296",
+        "rollog": "973937303795933300",
+        "messagelog": "973937303795933298",
+        "seslog": "973937303795933298"
+    },
+    "roles": {
+        "booster": "929645587291312169",
+        "vip": "973937301661057072",
+        "sponsor": "973937301661057070",
+        "müzisyen": "973937301635870819",
+        "team": "973937301661057071"
+    },
+    "channels": {
+        "chat": "973937302776725553",
+        "voicechannel": "973937302776725551"
+    },
+    "kategoriler": {
+        "publickategorisi": "973937303145832519"
+    },
+    "registration": {
+        "unregistered": "973937301661057064",
+        "yetkilialim": "973937301778497569",
+        "botcommands": "973937301682024484",
+        "staff": "973937301682024483",
+        "enaltyetkilirolü": "973937301740736594",
+        "GuilDTag": "BG",
+        "GuildDiscrim": "0001"
+    },
+    "Guild": {
+        "GuildID": "973937301635870811",
+        "GuilDName": "reformer of borangkdn",
+        "GuildOwnerRole": ["973937301778497571", "973937301778497566"]
+    },
+    "emojis": {
+        "tada": "<a:bg_cekiliske:974966385941819392>",
+        "yes": "<a:bg_onaylamak:974966348738363412>",
+        "no": "<a:bg_reddetmek:974966361975562250>"
+    },
+        "buttons": {
+            "giveaway": "973937301635870815",
+            "activity": "973937301635870816"
+        }
+    }
+    
