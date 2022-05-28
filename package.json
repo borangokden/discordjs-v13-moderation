@@ -1,7 +1,7 @@
 {
-  "name": "borangkdn",
+  "name": "borangkdn-v13-moderation",
   "version": "0.0.1",
-  "description": "BoranGkdn tarafından yapılan süpervizör bot.",
+  "description": "BoranGkdn tarafından yapılan v13 moderation bot.",
   "main": "borangkdn.js",
   "scripts": {
     "start": "node borangkdn.js"
