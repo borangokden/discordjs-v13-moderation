@@ -10,7 +10,7 @@ Boş.
 
 Boş.
 
-# Neden v13 Button System ?
+# Neden v13 Mod System ?
 
 Boş.
 
